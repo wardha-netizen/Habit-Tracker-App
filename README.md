@@ -33,10 +33,23 @@ Few glimpses of the Sprout app in action.
 ![Sprout Habit Details](assets/screenshots/habit_details.png)
 ![Sprout Reward](assets/screenshots/reward.png)
 
+Installation and Setup:
+Want to run the app yourself? It's simple! Make sure you have the Flutter SDK installed on your system.
+Clone the Repository
+This command downloads the project files to your computer.
+  git clone [https://github.com/wardha-netizen/Habit-Tracker-App.git]
+Then, move into the project folder.
+  cd Habit-Tracker-App
+This command downloads all the necessary packages for the app to run.
+  flutter pub get
+This command builds and launches the app on a connected device or emulator.
+  flutter run
+
 Developed By:
   "Wardha Khalid"
 GitHub Profile: wardha-netizen
 LinkedIn Profile: https://www.linkedin.com/in/wardha-khalid-1945a7353/
+
 
 
 
